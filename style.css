@@ -1,0 +1,32 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px orange;
+}
+
+.note
+{
+font-size: 15px;
+color: green;
+}
+
+.footer
+{
+position: fixed;
+color: firebrick;
+background-color: grey;
+bottom: 0;
+width: 100%;
+line-height: 3;
+text-align: center;
+font-size: 15px;
+}
+
+canvas
+{
+border: 5px solid yellowgreen;
+border-radius: 20px;
+box-shadow: 15px 15px 35px brown;
+}
